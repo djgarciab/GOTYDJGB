@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-html-f4f70": {
+      "hosting": {
+        "goty": [
+          "angular-html-f4f70"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-cdc61"
+  }
+}
